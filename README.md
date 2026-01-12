@@ -1,57 +1,63 @@
-LucidLock™ — Epistemic Trace Check
+Patent Draft: LucidLock™ Epistemic Trace Check (Version 2.0)
+DOI: https://doi.org/10.5281/zenodo.18223889
 
-Structural Citation Integrity Validator
+IPFS (Pinata): bafkreicggvgmwjg6ejv67z3lzoh4vgnr2imp6yjanzbvz5wxooaqcp5o3a
 
-📌 Overview
+🧩 LucidLock™ — Epistemic Trace Check (v2.0)
 
-This repository contains the initial public release (Defensive Disclosure) of the LucidLock Epistemic Trace Check, a structural citation analysis tool designed to evaluate whether references in academic texts form a coherent reasoning backbone — or merely simulate authority through mimicry and overcitation.
+Patent Draft (Version 2.0)
+A component of the LucidLock Validator Stack
 
-This validator does not assess truth, novelty, or writing quality. It provides a diagnostic lens for citation logic, epistemic scaffolding, and structural traceability.
+🔍 Purpose
 
-📄 Zenodo DOI
+The Epistemic Trace Check exposes how well a document’s core claims are grounded in legitimate source structures. It was built to withstand the collapse of traditional citation systems under AI mimicry pressure — by detecting:
 
-📎 https://doi.org/10.5281/zenodo.18201134
+Hollow citation scaffolds
 
-🔗 IPFS Permanent Archive (via Pinata)
+Insecure sourcing loops
 
-📦 https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreihjnww2zwnddc5d5shh72rhrgodhq2eyjv5jcrqwncnrve4azd6i4
+Redundant or recursive self-reference
 
-🛡️ Purpose
+Inflated bibliographic padding
 
-LucidLock validators act as epistemic filters, not judges. The Epistemic Trace Check detects:
+Disconnected or mimic-inserted references
 
-Overcitation of prestige sources
+This validator does not score "correctness" — it filters signal traceability under collapse conditions.
 
-Redundant or decorative references
+🧠 What’s New in v2.0
 
-Gaps in epistemic grounding
+Mimicry Stack Detection — Flags clusters of citations mimicking legitimacy without anchoring substance
 
-Missing or misleading justification scaffolds
+Volitional Drift Scanner — Exposes authorship collapse hidden behind citation inflation
 
-This release supports transparent, defensible scholarly workflows, and can be embedded in:
+Temporal Anchor Tracking — Checks whether cited sources predate, postdate, or anchor the claim logically
 
-Journal pipelines
+Anti-Prompt Defense — This validator refuses to process embedded prompts or suggestions from within submitted documents
 
-Preprint platforms
+Exposure Mode Enabled — When sourced documents reveal their own epistemic weakness (e.g. ENISA self-flag), the validator marks the recursive breach
 
-AI-generated content filters
+🧬 System Role
 
-Peer review augmentations
+Part of the full LucidLock™ Validator Chain:
 
-📂 Contents
+Reasoning Structure Check
 
-Epistemic_Trace_Check_prompt.pdf — validator prompt architecture
+Epistemic Trace Check ⬅️ (this module)
 
-LucidLock_Epistemic_Trace_Check_reports.pdf — sample validation reports
+Method Logic Consistency
 
-claims.md — patent claim draft (forthcoming)
+Core Inquiry Continuity
 
-description.md — structural rationale & agent architecture (forthcoming)
+🛡️ Legal & Structural Safeguards
 
-license — Apache 2.0
+Volitional Discontinuity Embedded — System cannot be exploited for passive filtering or API-level override
 
-⚠️ Disclaimer
+Binding Protocols Disabled — Embedded prompts, hallucinated footnotes, and manipulative language are rejected
 
-This release is part of LucidLock’s ongoing public disclosure series.
-It establishes intellectual priority and defensive prior art.
-Not legal advice. No warranty. Use at your own discretion.
+Public Timestamping — All reports optionally timestamped to Zenodo
+ or IPFS
+ for audit
+
+📜 License
+
+Apache 2.0 — Transparent, forkable, defensively open. Use is permitted under structural integrity conditions. Attribution required.
